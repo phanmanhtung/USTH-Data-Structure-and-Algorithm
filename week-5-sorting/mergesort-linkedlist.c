@@ -1,3 +1,8 @@
+/*Exercise 2:
+To avoid doubling the workspace needed when arrays are sorted with Merge Sort, it
+may be better to use a linked list of data instead of classic arrays (static or dynamic
+array). Implement Merge Sort in C/C++ and discuss its complexity.*/
+
 #include<stdio.h>
 #include<stdlib.h>
 
